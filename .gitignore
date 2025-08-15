@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+.venv/
+
+# Database
+*.db
+*.sqlite3
+
+# IDE and Editor folders
+.vscode/
+.idea/
+
+# Uploaded files
+Uploaded_Resumes/*
